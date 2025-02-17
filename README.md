@@ -16,32 +16,15 @@ Welcome to my GitHub profile. I'm passionate about programming, open-source, and
 ## 🛠️ My Skills
 
 ---
+**Technical Skills**  
 
-**Languages:**  
-- Python  
-- SQL  
-- R
-- MongoDB
-- Power BI
-- Bash/Shell scripting  
-
----
-
-**Frameworks/Libraries:**  
-- **Data Analysis and Visualization:** Pandas, NumPy, Matplotlib, Seaborn, Plotly  
-- **Machine Learning:** Scikit-learn    
-- **Big Data:** Apache Hadoop, Apache Spark  
-
----
-
-**Tools:**  
-- **Data Analytics:** Power BI, Tableau  
-- **Database Management:** MySQL, MongoDB, Snowflake  
-- **Cloud Platforms:** Google Cloud Platform (GCP)  
-- **Version Control:** Git, GitHub  
-- **Development:** Jupyter Notebook   
-- **Operating Systems:** Windows, Linux (Ubuntu)
-
+Languages: Python , SQL , R
+Databases: MySQL, MongoDB, FireBase
+Libraries:  Pandas, NumPy, Matplotlib, Seaborn, Plotly, Scikit-learn   
+Tools:  Power BI, Tableau, VsCode, Jupyter Notebook, Collab
+Cloud Platforms: AWS, AZURE
+Version Control: Git 
+Additional Skills: AI/ML, CI/CD, Data Mining, Excel, Data analysis
 --- 
 
 **Other Skills:** 
